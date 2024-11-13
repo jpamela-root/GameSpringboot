@@ -1,4 +1,4 @@
-* Projeto de Aprendizado com Spring Boot e Banco de Dados
+# Projeto de Aprendizado com Spring Boot e Banco de Dados
 
 Este projeto foi desenvolvido com o objetivo de aprimorar minhas habilidades em manipulação de banco de dados, especialmente em:
 
@@ -15,18 +15,27 @@ Tecnologias e Ferramentas Utilizadas
 -  PostgreSQL: Banco de dados relacional para ambientes de produção e desenvolvimento avançado.
 -  Postman: Ferramenta para testes e integração de API RESTful
 
-Objetivos do Projeto
+# Objetivos do Projeto
 
 O foco deste projeto é:
 
     Relacionamentos N-N: Implementação de relações muitos-para-muitos entre entidades no banco de dados, utilizando JPA.
     Mapeamento Objeto-Relacional (ORM): Configuração de mapeamentos entre classes Java e tabelas de banco de dados, aproveitando as anotações do JPA.
 
-Estrutura do Projeto
+Topicos importantes do Projeto:
 
-    src/main/java: Código-fonte principal do projeto.
-    src/main/resources: Arquivos de configuração e propriedades, incluindo os esquemas do banco de dados.
-    src/test/java: Testes unitários e de integração.
+-  Conceitos
+- Sistemas web e recursos
+- Cliente/servidor, HTTP, JSON
+- Padrão Rest para API web
+- Estruturação de projeto Spring Rest
+- Entidades e ORM
+- Database seeding
+- Padrão camadas
+- Controller, service, repository
+- Padrão DTO
+
+    
 
 Banco de Dados
 
